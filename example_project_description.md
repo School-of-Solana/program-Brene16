@@ -71,5 +71,4 @@ anchor test     # run tests
 ```
 
 ### Additional Notes for Evaluators
-
 This was my first Solana dApp and the learning curve was steep! The biggest challenges were figuring out account ownership validation (kept getting unauthorized errors) and dealing with async transaction confirmations. PDAs were confusing at first but once they clicked, the deterministic addressing made everything much cleaner.
