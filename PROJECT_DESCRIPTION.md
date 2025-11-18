@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL** [TODO: Link to deployed Vercel frontend]
+**Deployed Frontend URL** `https://counter-frontend-a9ar.vercel.app/`
 
 **Solana Program ID** `Asfjdz55joSntTv9NKCSCXvRVhGEJ6CWguurNkokAF2j`
 
@@ -23,7 +23,7 @@ It allows each user to create their own PDA-based counter, which they can increm
 ### How to Use the dApp
 1. The user connects their Solana wallet (Phantom) on the frontend.
 
-2. Click on initialize to initialize the counter. This creates a PDA counter tied to ypur wallet
+2. Click on initialize to initialize the counter. This creates a PDA counter tied to your wallet
 
 3. Click on the increment button
 
