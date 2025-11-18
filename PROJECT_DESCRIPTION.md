@@ -1,8 +1,8 @@
 # Project Description
 
-**Deployed Frontend URL** `https://counter-frontend-a9ar.vercel.app/`
+[Deployed Frontend URL](`https://counter-frontend-a9ar.vercel.app/`)
 
-**Solana Program ID** `Asfjdz55joSntTv9NKCSCXvRVhGEJ6CWguurNkokAF2j`
+Solana Program ID `Asfjdz55joSntTv9NKCSCXvRVhGEJ6CWguurNkokAF2j`
 
 ## Project Overview
 
